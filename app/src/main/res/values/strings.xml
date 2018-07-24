@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pokemon App By Kotlin</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
